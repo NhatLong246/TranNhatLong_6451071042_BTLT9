@@ -1,6 +1,4 @@
-import os
-
-readme_content = """# Flutter Firebase Exercises - To-do List & Authentication
+# Flutter Firebase Exercises - To-do List & Authentication
 
 Bài tập thực hành về kết nối Flutter với Google Firebase, tập trung vào các dịch vụ Core, Cloud Firestore và Authentication.
 
